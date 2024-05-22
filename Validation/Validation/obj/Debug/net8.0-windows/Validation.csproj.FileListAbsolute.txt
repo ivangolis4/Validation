@@ -1,0 +1,17 @@
+C:\Users\XoS\source\repos\Validation\Validation\bin\Debug\net8.0-windows\Validation.exe
+C:\Users\XoS\source\repos\Validation\Validation\bin\Debug\net8.0-windows\Validation.deps.json
+C:\Users\XoS\source\repos\Validation\Validation\bin\Debug\net8.0-windows\Validation.runtimeconfig.json
+C:\Users\XoS\source\repos\Validation\Validation\bin\Debug\net8.0-windows\Validation.dll
+C:\Users\XoS\source\repos\Validation\Validation\bin\Debug\net8.0-windows\Validation.pdb
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.Form1.resources
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.csproj.GenerateResource.cache
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.AssemblyInfoInputs.cache
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.AssemblyInfo.cs
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.csproj.CoreCompileInputs.cache
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.dll
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\refint\Validation.dll
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.pdb
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.genruntimeconfig.cache
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\ref\Validation.dll
+C:\Users\XoS\source\repos\Validation\Validation\obj\Debug\net8.0-windows\Validation.Display.resources
